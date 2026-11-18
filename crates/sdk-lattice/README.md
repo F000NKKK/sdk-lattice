@@ -4,8 +4,7 @@ High-level Rust SDK that composes net-lattice, tunnel-lattice, dns-lattice, and 
 
 ## Status
 
-Bootstrap stage: this crate is a placeholder. No public API has been
-published yet.
+Bootstrap stage: version 0.1.0 is a placeholder with no functional public API.
 
 The development workspace requires Rust 1.100 or newer.
 

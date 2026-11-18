@@ -7,8 +7,8 @@ High-level Rust SDK that composes net-lattice, tunnel-lattice, dns-lattice, and 
 **Bootstrap stage.** This repository currently contains repository workflow,
 policies, and packaging scaffolding ported from
 [net-lattice](https://github.com/F000NKKK/net-lattice), the first crate in the
-Lattice networking ecosystem. No implementation code has landed yet and no
-version has been published.
+Lattice networking ecosystem. The `0.1.0` crate is a placeholder: no SDK
+implementation or functional public API has landed yet.
 
 The development workspace requires Rust 1.100 or newer.
 
